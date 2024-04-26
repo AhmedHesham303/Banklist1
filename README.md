@@ -2,6 +2,14 @@ Banking app that allows users to request loans, transfer money, and show data ab
 
 technologies used :
   HTML, CSS, and JS.
+  Main features:
+    -Login
+    -request loan
+    -transfer money
+    -display withdraws and deposits
+    -sort actions
+    -close acount
+  
 
 
 ![photo_2024-04-26_18-39-28](https://github.com/AhmedHesham303/Banklist1/assets/168190809/9ff23ab1-6186-41e1-a816-9be46916c884)
